@@ -3,5 +3,6 @@ src/package-lock.json
 *.asar
 _*
 miniSrc/
+FingerprintBlockers/
 
 *.crswap # crostini tmp files

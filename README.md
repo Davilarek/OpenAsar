@@ -1,5 +1,5 @@
 # OpenAsar
-![Nightly Status](https://github.com/GooseMod/OpenAsar/actions/workflows/nightly.yml/badge.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/l) ![GitHub Sponsors](https://img.shields.io/github/sponsors/CanadaHonk?label=Sponsors&logo=github)
+![Nightly Status](https://github.com/Davilarek/OpenAsar/actions/workflows/nightly.yml/badge.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/l)
 
 **An open-source alternative of Discord desktop's `app.asar`**
 
@@ -10,7 +10,7 @@
 - **:electric_plug: Drop-in**: Replace one file and it's installed, that's it (same with uninstall)
 - **:gear: Configurable**: Adds many config options for Discord and OpenAsar enhancements (see config section)
 - **:feather: Lightweight**: <1% of Discord's original size (9mb -> ~50kb)
-- **:shield: No Tracking**: Removes Discord's built-in tracking for crashes and errors in the asar (not app itself)
+- **:shield: No Tracking**: Defends from fingerprinting, and removes Discord's built-in tracking for crashes and errors in the asar (not app itself)
 
 ### See [FAQ](faq.md) for more details
 

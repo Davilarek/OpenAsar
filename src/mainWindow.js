@@ -504,7 +504,7 @@ function spoofFingerprints() {
   }
 
   spoofAudioContext();
-  spoofFont();
+  // spoofFont();
   spoofWebGL();
   spoofCanvas();
 

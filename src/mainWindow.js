@@ -14,7 +14,7 @@ const themesync = async () => {
   if (!bgPrimary || bgPrimary === '#36393f' || bgPrimary === '#fff' || bgPrimary === lastBgPrimary) return; // Default primary bg or same as last
   lastBgPrimary = bgPrimary;
 
-  const vars = [ '--background-primary', '--background-secondary', '--brand-experiment', '--header-primary', '--text-muted' ];
+  const vars = ['--background-primary', '--background-secondary', '--brand-experiment', '--header-primary', '--text-muted'];
 
   let cached = await DiscordNative.userDataCache.getCached() || {};
 
